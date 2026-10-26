@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "prompt": "Photorealistic luxury jewellery repair hero: goldsmith restoring a gold ring, dark workshop, warm task light, subject right and dark negative space left; no text or watermark.",
+    "file": "client/public/images/hero.webp",
+    "smallFile": "client/public/images/hero-small.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "banner": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Landscape luxury editorial still-life of traditional Indian yellow-gold necklace, earrings and bangles arranged elegantly on charcoal stone and black silk, warm glints of gold, jewel detail crisp, dark uncluttered left half for title overlay, wide website banner composition. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/banner.webp",
+    "smallFile": "client/public/images/banner-small.webp",
+    "dimensions": [
+      1536,
+      631
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "about": {
+    "prompt": "Use case: photorealistic-natural. Website asset for Sunar Karighar jewellery repair. Landscape editorial photograph of an Indian master goldsmith in a refined traditional jewellery workshop, carefully inspecting a gold necklace under a task lamp, natural hands and authentic tools, warm amber light and dark walnut backdrop. Subject on right, dark negative space on left for heading. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/about.webp",
+    "smallFile": "client/public/images/about-small.webp",
+    "dimensions": [
+      1536,
+      768
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "van": {
+    "prompt": "Use case: photorealistic-natural. Website asset for Sunar Karighar jewellery repair. Landscape premium editorial photograph of a pristine charcoal delivery van with subtle gold trim parked outside a refined Indian jewellery workshop, secure doorstep jewellery pickup service, warm morning light, elegant architecture, realistic vehicle proportions. No lettering or logos on van. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/van.webp",
+    "smallFile": "client/public/images/van-small.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "ring": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square macro studio product photograph of an exquisite yellow-gold ring with delicate engraved detailing and small clear gemstone, one ring entirely visible and centered on warm charcoal matte stone, subtle reflected gold light, exquisite sharp authentic craftsmanship. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/ring.webp",
+    "smallFile": "client/public/images/ring-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "necklace": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square studio product photograph of an elegant traditional Indian yellow-gold necklace with delicate linked craftsmanship, entire necklace elegantly arranged in a gentle oval on warm charcoal matte stone, centered, crisp metal detail and soft golden highlights. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/necklace.webp",
+    "smallFile": "client/public/images/necklace-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "earrings": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square macro studio product photograph of a matching pair of exquisite yellow-gold Indian jhumka earrings, symmetrical arrangement, both entirely visible on warm charcoal matte stone, detailed filigree, soft golden highlights. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/earrings.webp",
+    "smallFile": "client/public/images/earrings-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "bangle": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square macro studio product photograph of two elegant engraved yellow-gold Indian bangles overlapping gently, complete circular silhouettes visible and centered on warm charcoal matte stone, exquisite sharp metal detail, soft golden highlights. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/bangle.webp",
+    "smallFile": "client/public/images/bangle-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "pendant": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square macro studio product photograph of a single exquisite traditional yellow-gold pendant with a small ruby accent and short section of fine gold chain, centered and entirely visible on warm charcoal matte stone, sharp authentic craftsmanship. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/pendant.webp",
+    "smallFile": "client/public/images/pendant-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  },
+  "silver": {
+    "prompt": "Use case: product-mockup. Website asset for Sunar Karighar jewellery repair. Square studio product photograph of a small polished sterling silver bowl with delicate engraved border beside a single silver anklet, entirely visible and centered on warm charcoal matte stone, realistic cool silver highlights, detailed craftsmanship. High-resolution professional photography, realistic materials, refined black-and-gold visual identity, generous crop-safe margins, no typography, no watermark, no collage.",
+    "file": "client/public/images/silver.webp",
+    "smallFile": "client/public/images/silver-small.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "generator": "Built-in image_gen tool"
+  }
+}

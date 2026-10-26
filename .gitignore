@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+.env
+server/.env
+client/.env
+*.log
+artifacts/*.png
+playwright-report/
+test-results/
+
+.env.*
+!.env.example
+artifacts/*.zip
